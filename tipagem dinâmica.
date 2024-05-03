@@ -1,0 +1,11 @@
+#tipagem dinâmica.
+
+#atribuindo valores
+nome  =  "Marta"
+idade  =  20
+peso  =  62.500
+
+#Exibindo dados.
+imprimir ( f"Nome: { nome } " )
+imprimir ( f"idade : { idade } " )
+imprimir ( f"peso: { peso } " )
